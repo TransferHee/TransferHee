@@ -1,4 +1,4 @@
-### Hi welcome, i'm Seunghee Han 👋
+### Hi welcome, I'm Seunghee Han 👋
 
 #### AI Researcher / Data Scientist
 
