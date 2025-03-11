@@ -1,6 +1,6 @@
 ### Hi welcome, I'm Seunghee Han 👋
 
-#### AI Researcher / Data Scientist
+#### ML Engineer / Data Scientist
 
 <!--
 **TransferHee/TransferHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
