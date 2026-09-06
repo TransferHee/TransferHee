@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🎓 Education <br>
-2024.03-        M.S. of Artificial Intelligence, SKKU <br>
+2024.03-2025.06 M.S. of Artificial Intelligence, SKKU <br>
 2018.03-2024.02 Bachelor of Applied Artifical Intelligence, SKKU <br>
 
 
